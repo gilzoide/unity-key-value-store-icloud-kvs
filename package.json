@@ -1,0 +1,14 @@
+{
+  "name": "com.gilzoide.key-value-storage.icloud-kvs",
+  "displayName": "Key-Value Store - iCloud KVS",
+  "version": "1.0.0-preview1",
+  "description": "Key-Value Store implementation backed by iCloud KVS (NSUbiquitousKeyValueStore).",
+  "homepage": "https://github.com/gilzoide/unity-key-value-store-icloud-kvs",
+  "license": "Unlicense",
+  "author": {
+    "name": "Gil Barbosa Reis"
+  },
+  "dependencies": {
+    "com.gilzoide.key-value-store": "1.0.0"
+  }
+}
