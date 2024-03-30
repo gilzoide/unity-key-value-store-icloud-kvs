@@ -1,0 +1,16 @@
+{
+    "name": "Gilzoide.KeyValueStore.ICloudKvs",
+    "rootNamespace": "Gilzoide.KeyValueStore.ICloudKvs",
+    "references": [
+        "Gilzoide.KeyValueStore"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
